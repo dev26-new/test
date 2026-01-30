@@ -1,3 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 main change
 
+=======
+feature change
+>>>>>>> d2c8019 (feature chage)

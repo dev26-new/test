@@ -1,3 +1,6 @@
 hello git
 Third line
+<<<<<<< HEAD
 Stash this line
+=======
+>>>>>>> 52fdf7a (ADD feature file)
